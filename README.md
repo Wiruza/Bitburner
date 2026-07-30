@@ -27,3 +27,12 @@ ram-share.js // runs the worker with maximum treads possible on Home server
 run ram-share.js
 ```
 ram-share-worker.js // keeps the ram share running 
+
+## Stock trade
+stock-master.js // automated stock trading. 
+
+Requires:
+- WSE Account    // cost $200m
+- Trade Information eXchange (TIX) API access // cost $5b
+- 4S Market Data TIX API Access // cost $25b
+- 4S Market Data Access // cost $1b
