@@ -16,10 +16,10 @@ hacktheplanet.js //controller script
 ```
 run hacktheplanet.js
 ```
-scan.js // scans the network
-root.js // presists root acccess on server
-deploy.js //deploys the script to hack, grow or weaken the server
-server-tool.js // runs the Hack, Weaken, Grow (HWG) on the target server
+- scan.js // scans the network
+- root.js // presists root acccess on server
+- deploy.js //deploys the script to hack, grow or weaken the server
+- server-tool.js // runs the Hack, Weaken, Grow (HWG) on the target server
 
 ## Share RAM with factions
 ram-share.js // runs the worker with maximum treads possible on Home server
