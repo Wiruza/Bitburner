@@ -1,6 +1,6 @@
 # Bitburner all scripts are for version 3.0.1
 
-I have taken the approch to run a single script that uses all RAM on Home and a starter script that prowles every server and runs hac, weaken and Grow on that server
+I have taken the approch to run a single script that uses all RAM on Home and a starter script that prowles every server and runs Hack, Weaken and  Grow (HWG) on that server
 
 
 ## Start HWG
